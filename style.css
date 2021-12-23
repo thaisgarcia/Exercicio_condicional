@@ -1,0 +1,8 @@
+*{
+    margin: 1;
+    padding: 1;
+	border: 1;
+    font-family: arial;
+    text-align: center
+}
+h1{background-color: lightskyblue; padding: 20px; font-family:cursive;}
